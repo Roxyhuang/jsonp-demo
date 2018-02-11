@@ -1,0 +1,14 @@
+{
+  "name": "jsonp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server/server.js"
+  },
+  "author": "Neo_huang",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.4.1"
+  }
+}
