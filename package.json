@@ -9,6 +9,7 @@
   "author": "Neo_huang",
   "license": "ISC",
   "devDependencies": {
-    "koa": "^2.4.1"
+    "koa": "^2.4.1",
+    "xss": "^0.3.5"
   }
 }
